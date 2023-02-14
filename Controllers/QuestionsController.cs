@@ -67,7 +67,7 @@ namespace QuestionableQuestionsApp.Controllers
 
         // GET: Questions/Create
         //Will not create unless authorized
-        [Authorize]
+        
         public IActionResult Create()
         {
             return View();
@@ -76,7 +76,7 @@ namespace QuestionableQuestionsApp.Controllers
         // POST: Questions/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [Authorize]
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,QuestionLine,Questioner")] Question question)
