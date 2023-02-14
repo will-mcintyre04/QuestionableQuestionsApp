@@ -13,7 +13,6 @@ Project was created with the following tools:
 - SQL
 - C#
 - HTML
-- Microsoft Azure Cloud
 
 ## Acknowkledgements
 Thank you to Shad Sluiter for his video "ASP.NET Core Crash Course", serving as inspiration for this project.
