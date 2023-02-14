@@ -17,5 +17,3 @@ Project was created with the following tools:
 
 ## Acknowledgments
 Thank you to Shad Sluiter for his video "ASP.NET Core Crash Course", serving as inspiration for this project.
-
-Test test 123.
