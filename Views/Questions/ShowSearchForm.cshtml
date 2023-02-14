@@ -1,0 +1,32 @@
+﻿
+<h4>Search for a Question.</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ShowQuestionLineSearchResults">
+            <div class="form-group">
+                <h8>Question</h8>
+                <label for="QuestionLine" class="control-label"></label>
+                <input name="QuestionLine" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search Question" class="btn btn-primary" />
+            </div>
+        </form>
+
+        <form asp-action="ShowQuestionerSearchResults">
+            <div class="form-group">
+                <h8>Questioner</h8>
+                <label for="Questioner" class="control-label"></label>
+                <input name="Questioner" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search Questioner" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
