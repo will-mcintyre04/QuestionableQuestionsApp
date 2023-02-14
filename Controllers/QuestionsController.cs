@@ -66,7 +66,8 @@ namespace QuestionableQuestionsApp.Controllers
         }
 
         // GET: Questions/Create
-        [Authorize]//Will not create unless authorized
+        //Will not create unless authorized
+        [Authorize]
         public IActionResult Create()
         {
             return View();
