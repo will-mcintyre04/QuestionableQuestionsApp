@@ -10,7 +10,7 @@ This is an introductory web application that tracks any funny, memorable and que
 ## Technologies
 Project was created with the following tools:
 - Visual Studio 2022
-- ASP.NET Core
+- ASP.NET Core 6.0
 - SQL
 - C#
 - HTML
