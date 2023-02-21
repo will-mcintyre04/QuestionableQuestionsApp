@@ -57,13 +57,14 @@ If "Create New", "Edit" or "Delete" are selected, the user is brought to the [lo
 Edit Screen:
 
 <img
-src="https://user-images.githubusercontent.com/78566536/220251541-8b108bf4-897f-400f-906d-ac18d8a0cba7.png" 
+src="https://user-images.githubusercontent.com/78566536/220252662-f883498b-2988-4791-ba94-777e52270649.png" 
 alt="Alt text"
 title="Edit">
 
-Creat New Screen:
+Create New Screen:
+
 <img
-src="https://user-images.githubusercontent.com/78566536/220251541-8b108bf4-897f-400f-906d-ac18d8a0cba7.png" 
+src="https://user-images.githubusercontent.com/78566536/220252770-81c17ab5-f6c9-46d0-af33-553e14360c4d.png" 
 alt="Alt text"
 title="Create New">
 
