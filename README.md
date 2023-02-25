@@ -23,7 +23,7 @@ When accesing the application, the home screen is displayed:
 <img
 src="https://user-images.githubusercontent.com/78566536/220248323-5b4a5e3b-035d-49f0-a262-241be669d5cd.png" 
 alt="Alt text"
-title="Optional title">
+title="Home Screen">
 
 To access the different parts of the website, use the heading at the top of the application to go to the following pages:
 * [Home](#home)
