@@ -91,7 +91,6 @@ namespace QuestionableQuestionsApp.Controllers
         }
 
         // GET: Questions/Edit/5
-        [Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Question == null)
