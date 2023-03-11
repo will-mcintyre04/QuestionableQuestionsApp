@@ -23,7 +23,7 @@ Project was created with the following tools:
 When accesing the application, the home screen is displayed:
 
 <img
-src="https://user-images.githubusercontent.com/78566536/220248323-5b4a5e3b-035d-49f0-a262-241be669d5cd.png" 
+src="https://user-images.githubusercontent.com/78566536/224457041-13292c50-e8c6-4c9b-9789-aebdcbe830d4.png" 
 alt="Alt text"
 title="Home Screen">
 
@@ -32,6 +32,8 @@ To access the different parts of the website, use the heading at the top of the 
 * [Privacy](#privacy)
 * [Questions](#questions)
 * [Search](#search)
+
+Additionally, click on the <i>Github</i> or <i>Youtube</i> graphics to get access to this repo or see the inspiraton for this project.
 
 ### Home
 Displays the welcome to the website with an image.
