@@ -100,4 +100,4 @@ title="Login Page">
 
 
 ## Acknowledgments
-Thank you to Shad Sluiter for his video "ASP.NET Core Crash Course", serving as inspiration for this project.
+Thank you to Shad Sluiter for his video <a href="https://www.youtube.com/watch?v=BfEjDD8mWYg">ASP.NET Core Crash Course</a>, serving as inspiration for this project.
